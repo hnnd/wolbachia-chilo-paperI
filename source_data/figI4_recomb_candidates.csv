@@ -1,0 +1,8 @@
+gene,L,n_cmp,d_AB,A_to_A,A_to_B,B_to_B,B_to_A,A_placement,B_placement,AB_closer_than_own_ref,informative,ratio_AB_over_own
+og0064,542,331,0.425982,0.040161,0.323529,0.824176,0.398734,A supergroup,A supergroup,True,True,0.516858
+og0110,437,428,0.369159,0.00232,0.126168,0.38785,0.364103,A supergroup,A supergroup,True,True,0.951809
+og0229,413,413,0.075061,0.0,0.102439,0.109756,0.075061,A supergroup,A supergroup,True,True,0.68389
+og0283,195,195,0.010256,0.010256,0.005128,0.005128,0.0,B supergroup,A supergroup,False,True,1.0
+og0285,618,613,0.027732,0.024351,0.027778,0.013029,0.011382,A supergroup,A supergroup,False,True,1.138844
+og0287,465,453,0.01766,0.008811,0.015453,0.02603,0.022075,A supergroup,A supergroup,True,True,0.678448
+og0449,648,418,0.220096,0.013661,0.188679,0.217247,0.181208,A supergroup,A supergroup,False,True,1.013114

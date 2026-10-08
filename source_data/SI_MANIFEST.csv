@@ -1,0 +1,26 @@
+submission_name,content,source_file
+Figure_S1.pdf,"Cohort overview: 247 libraries by locality, host plant and arm; sequencing depth; positivity rate by arm (33/210 and 45/210 in the laboratory arm, 0/37 in the public arm)",FigI_S1_cohort_overview (regenerated 2026-09-07 under the 33-positive call set)
+Figure_S1.png,"Cohort overview: 247 libraries by locality, host plant and arm; sequencing depth; positivity rate by arm (33/210 and 45/210 in the laboratory arm, 0/37 in the public arm)",FigI_S1_cohort_overview (regenerated 2026-09-07 under the 33-positive call set)
+Figure_S2.pdf,"Public arm as external control and criterion calibration, including the depth profile of a pile-up library",FigI_S2_signal_authenticity.pdf (generated 2026-09-07)
+Figure_S2.png,"Public arm as external control and criterion calibration, including the depth profile of a pile-up library",FigI_S2_signal_authenticity.png (generated 2026-09-07)
+Figure_S3.pdf,"Threshold sensitivity: counter-example scan over breadth x RPM x parasitoid-fraction combinations. Scan uses the two primary criteria only; the two cells showing counter-examples at breadth 0.02-0.03 with a parasitoid-fraction threshold of 0.3 are NL_R_6 and NC2025_R_3, which the uniformity criterion calls positive in the final set",FigS3_threshold_sensitivity.pdf (artifact ebfd4a1e)
+Figure_S3.png,"Threshold sensitivity: counter-example scan over breadth x RPM x parasitoid-fraction combinations. Scan uses the two primary criteria only; the two cells showing counter-examples at breadth 0.02-0.03 with a parasitoid-fraction threshold of 0.3 are NL_R_6 and NC2025_R_3, which the uniformity criterion calls positive in the final set",FigS3_threshold_sensitivity.png (artifact d503dd91)
+Figure_S4.pdf,"Firth-penalized multivariable model, refitted under the 33-positive call set",FigI_S4_multivariate_or.pdf (generated 2026-09-07)
+Figure_S4.png,"Firth-penalized multivariable model, refitted under the 33-positive call set",FigI_S4_multivariate_or.png (generated 2026-09-07)
+Figure_S5.pdf,Lane retrospective analysis excluding inter-library index hopping,Fig_lane_retrospective.pdf (artifact 9b45da43)
+Figure_S5.png,Lane retrospective analysis excluding inter-library index hopping,Fig_lane_retrospective.png (artifact b16696a0)
+Figure_S6.pdf,"Assembly statistics and MAG quality, including the removed unplaced sequences",FigI_S6_mag_quality.pdf (generated 2026-09-07)
+Figure_S6.png,"Assembly statistics and MAG quality, including the removed unplaced sequences",FigI_S6_mag_quality.png (generated 2026-09-07)
+Figure_S7.pdf,Analysis workflow and key result counts (Paper I version),FigI_S7_workflow.pdf (generated 2026-09-07)
+Figure_S7.png,Analysis workflow and key result counts (Paper I version),FigI_S7_workflow.png (generated 2026-09-07)
+Figure_S8.pdf,Boundary-library diagnostics and locality-level spillover,Fig_negatives_and_spillover.pdf (artifact 26294cd7)
+Figure_S8.png,Boundary-library diagnostics and locality-level spillover,Fig_negatives_and_spillover.png (artifact 1a69c21c)
+Figure_S9.pdf,Competitive mapping against the combined wCchiA + wCchiB reference: per-strain breadth for all positives with boundary/pile-up/negative controls; wCchiB read share across resolved libraries; ambiguous-read fraction in infections versus pile-ups,FigI_S9_competitive_AB (generated 2026-09-07; REPLACES the earlier wsp allele-tree figure FigI2_strain_identity)
+Figure_S9.png,Competitive mapping against the combined wCchiA + wCchiB reference: per-strain breadth for all positives with boundary/pile-up/negative controls; wCchiB read share across resolved libraries; ambiguous-read fraction in infections versus pile-ups,FigI_S9_competitive_AB (generated 2026-09-07; REPLACES the earlier wsp allele-tree figure FigI2_strain_identity)
+Figure_S10.pdf,"Cohort overview: 247 libraries by locality, host plant and arm; sequencing depth; positivity rate by arm (33/210 and 45/210 in the laboratory arm, 0/37 in the public arm)",FigI_S1_cohort_overview (regenerated 2026-09-07 under the 33-positive call set)
+Figure_S10.png,"Cohort overview: 247 libraries by locality, host plant and arm; sequencing depth; positivity rate by arm (33/210 and 45/210 in the laboratory arm, 0/37 in the public arm)",FigI_S1_cohort_overview (regenerated 2026-09-07 under the 33-positive call set)
+TableS1_per_library_criteria.csv,Per-library criterion values for all 210 laboratory-arm libraries (source data),TableS1_per_library_criteria.csv
+TableS2_image_adjustment.csv,Image-adjustment parameters and before/after percentile check for Figure 5C,TableS2_image_adjustment.csv
+wsp_sanger_consensus.fa,Data S1: wsp Sanger consensus sequences from two adult C. chilonis females,wsp_sanger_consensus.fa
+wsp_sanger_identity.csv,"Data S1: trace quality, overlap mismatches and identity to both strain wsp alleles",wsp_sanger_identity.csv
+TableS3_strain_assignment.csv,"Per-strain read assignment for all 40 libraries carried through competitive mapping, joined to the read-level wsp allele counts",TableS3_strain_assignment.csv

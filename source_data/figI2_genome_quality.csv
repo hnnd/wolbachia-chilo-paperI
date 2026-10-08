@@ -1,0 +1,6 @@
+Name,Completeness,Contamination,Genome_Size,Total_Contigs,Contig_N50,Total_Coding_Sequences,Average_Gene_Length,Coding_Density,GC_Content,N_bases,n_gaps,MIMAG_class,role,strain_name
+strainA_full,95.51,6.27,1413383,3,1363769,1408,282.3323863636364,0.841,0.35,700,7,medium-quality draft,"superseded (v3, unplaced included)","wCchiA (v3, superseded)"
+strainA_main,95.42,4.71,1363769,1,1363769,1354,283.1462333825702,0.841,0.35,700,7,high-quality draft,FINAL strainA (v4),wCchiA
+strainA_unplacedonly,3.6,0.0,49614,2,31919,52,268.4423076923077,0.842,0.35,0,0,not applicable (fragment),removed sequences,(removed from wCchiA)
+strainB,99.95,1.40,1384892,10,1358011,1720,225.33779069767442,0.833,0.34,0,0,high-quality draft,"FINAL strainB (contig-level, as deposited)",wCchiB
+strainA_v5_deposited,95.42,0.47,1321332,6,313263,1326,281.0467571644042,0.841,0.35,0,0,high-quality draft,"FINAL strainA (v5, as deposited)","wCchiA (v5, deposited)"

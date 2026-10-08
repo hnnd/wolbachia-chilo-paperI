@@ -1,0 +1,9 @@
+geo,rice_n,rice_para,rice_wolb,wateroat_n,wateroat_para,wateroat_wolb,platform
+AQ,15,6,6,15,1,1,MGI
+CD,10,6,6,10,1,1,MGI
+HC,10,0,0,10,1,1,MGI
+HH,10,1,1,10,3,0,Illumina
+HR,10,3,3,10,2,2,MGI
+NL,15,4,3,15,1,1,MGI
+PYH,10,2,1,10,2,0,Illumina
+WH,10,0,0,10,6,0,Illumina

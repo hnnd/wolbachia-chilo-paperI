@@ -1,0 +1,4 @@
+channel,background,gain,gain_set_by,saturated_px,total_adjusted_px,applied_to
+red (Cy3 / IF555),0.1137,13.2,brightest row (parasitised larvae),3340,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"
+green (no signal present),0.1098,1.0,not amplified,0,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"
+blue (DAPI),0.098,8.01,brightest row (non-parasitised larvae),1981,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"

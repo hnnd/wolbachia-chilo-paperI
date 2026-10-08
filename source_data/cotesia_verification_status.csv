@@ -1,0 +1,34 @@
+sample,geo,host_plant,para_frac,dom_para,dom_frac,wolb_rpm,wolb_breadth,wolb_pos,wolb_pos_rev,verified
+AQ_R_12,AQ,rice,0.9311,Cotesia_flavipes,0.96358,1741.33,0.7146,1,1,panel assignment only
+AQ_R_13,AQ,rice,0.95004,Cotesia_flavipes,0.96296,1836.31,0.2802,1,1,panel assignment only
+AQ_R_2,AQ,rice,0.9241,Cotesia_flavipes,0.96154,714.49,0.1009,1,1,panel assignment only
+AQ_R_6,AQ,rice,0.9075,Cotesia_flavipes,0.95568,620.54,0.4246,1,1,panel assignment only
+AQ_R_8,AQ,rice,0.96592,Cotesia_flavipes,0.96161,3022.86,0.8769,1,1,de novo confirmed Cotesia
+AQ_R_9,AQ,rice,0.74778,Cotesia_flavipes,0.92692,5478.46,0.8695,1,1,panel assignment only
+AQ_W_1,AQ,wateroat,0.87466,Cotesia_flavipes,0.94187,515.46,0.1474,1,1,panel assignment only
+CD_R_10,CD,rice,0.95244,Cotesia_flavipes,0.94969,1276.58,0.7519,1,1,panel assignment only
+CD_R_2,CD,rice,0.89862,Cotesia_flavipes,0.84058,1479.96,0.503,1,1,panel assignment only
+CD_R_3,CD,rice,0.86797,Cotesia_flavipes,0.95976,3559.79,0.8017,1,1,panel assignment only
+CD_R_5,CD,rice,0.90578,Cotesia_flavipes,0.9312,1586.1,0.6741,1,1,panel assignment only
+CD_R_6,CD,rice,0.92169,Cotesia_flavipes,0.82895,1311.07,0.4629,1,1,panel assignment only
+CD_R_8,CD,rice,0.91834,Cotesia_flavipes,0.83575,2570.61,0.7677,1,1,panel assignment only
+CD_W_1,CD,wateroat,0.91008,Cotesia_flavipes,0.84642,3374.21,0.7897,1,1,panel assignment only
+HH_R_7,HH,rice,0.91977,Cotesia_flavipes,0.9877,2542.13,0.326,1,1,panel assignment only
+HR_R_2,HR,rice,0.90091,Cotesia_flavipes,0.93838,923.66,0.4168,1,1,panel assignment only
+HR_R_6,HR,rice,0.93348,Cotesia_flavipes,0.95539,1060.48,0.5397,1,1,panel assignment only
+HR_R_9,HR,rice,0.92314,Cotesia_flavipes,0.95321,1300.19,0.4605,1,1,panel assignment only
+HR_W_10,HR,wateroat,0.32624,Cotesia_flavipes,0.9446,403.81,0.4148,1,1,de novo confirmed Cotesia
+HR_W_4,HR,wateroat,0.93097,Cotesia_flavipes,0.75581,1878.6,0.3026,1,1,panel assignment only
+HZ_R_10,HZ,rice,0.80284,Cotesia_flavipes,0.97412,1147.69,0.0889,1,1,de novo confirmed Cotesia
+HZ_R_4,HZ,rice,0.75892,Cotesia_flavipes,0.97636,2039.68,0.1971,1,1,panel assignment only
+HZ_R_5,HZ,rice,0.84451,Cotesia_flavipes,0.97406,9989.23,0.6264,1,1,panel assignment only
+NC2025_R_1,NC2025,rice,0.9513,Cotesia_flavipes,0.96167,2312.8,0.8392,1,1,de novo confirmed Cotesia
+NC2025_R_3,NC2025,rice,0.28302,Cotesia_flavipes,0.98742,363.39,0.0239,0,1,"de novo attempted, unresolvable"
+NC2025_R_6,NC2025,rice,0.94571,Cotesia_flavipes,0.96363,11364.83,0.8883,1,1,de novo confirmed Cotesia
+NL_R_4,NL,rice,0.84135,Cotesia_flavipes,0.95645,646.03,0.1698,1,1,panel assignment only
+NL_R_5,NL,rice,0.93438,Cotesia_flavipes,0.95939,2322.91,0.7357,1,1,panel assignment only
+NL_R_6,NL,rice,0.21766,Cotesia_flavipes,0.94898,499.79,0.0303,0,1,"de novo attempted, unresolvable"
+NL_R_9,NL,rice,0.94339,Cotesia_flavipes,0.95042,465.1,0.4183,1,1,panel assignment only
+NL_W_14,NL,wateroat,0.76014,Cotesia_flavipes,0.94604,941.35,0.1518,1,1,panel assignment only
+PYH_R_10,PYH,rice,0.42387,Cotesia_flavipes,0.53311,7914.64,0.6983,1,1,de novo confirmed Cotesia
+PYH_R_3,PYH,rice,0.25905,Cotesia_ruficrus,0.61239,7.37,0.0003,0,0,de novo REFUTED (not Cotesia)

@@ -1,0 +1,27 @@
+# 路径
+root:        /mnt/inaisfs/home/wangyunsheng/wangyunsheng/work/chilo/reseq/01.wolb
+fq_lab:      /mnt/inaisfs/home/wangyunsheng/wangyunsheng/work/chilo/reseq/fq/lab_seq
+fq_sra:      /mnt/inaisfs/home/wangyunsheng/wangyunsheng/work/chilo/reseq/fq/sra
+info_txt:    /mnt/inaisfs/home/wangyunsheng/wangyunsheng/work/chilo/reseq/info.txt
+# 两个 Wolbachia 基因组的来源宏基因组（Paper I §2.5 的那头被寄生幼虫，CS_R HiFi）
+hifi_cs_r:   /mnt/inaisfs/home/wangyunsheng/wangyunsheng/work/chilo/wgs/00.raw/CS_R.fastq.gz
+# 参考
+host_fa:        refs/host/chilo_suppressalis.fa
+host_idx:       refs/host/chilo_suppressalis            # minibwa index 前缀 (.l2b/.mbw)
+wolbachia_fa:   refs/wolbachia/wolbachia_refs.fa
+parasitoid_fa:  refs/parasitoid/parasitoid_refs.fa
+kraken_db:      /mnt/inaisfs/home/wangyunsheng/wangyunsheng/opt/db/kraken2_standard_20260226
+# 阈值（Pilot 后定稿）
+wolb_min_breadth: 0.05     # Wolbachia 阳性：最佳株覆盖广度>=5%（单株口径，断点 0.089->0.030）
+wolb_min_rpm:     200      # Wolbachia 阳性：reads/百万非宿主下限（噪声 p90=95，信号 min=278）
+# 弃用 depth 硬阈值：胞内菌丰度低，depth 对存在性不灵敏（depth>=5 即使单株口径也仅 3 样本）
+para_min_frac:    0.1      # 寄生阳性：Cotesia reads 占非宿主 >=10%（严判；旧 0.001 过松）。
+                           # 另叠加 de novo 补救：确认组装出寄生物线粒体(>=1kb)的样本即判寄生+，
+                           # 以纳入寄蝇/姬蜂等 Cotesia 参考低估的非茧蜂寄生（见 02b + Stage 03f）
+# 资源
+threads:       16
+partition:     cpu
+fat_partition: fat
+seed:          42
+# pilot 样本（Task12 用）
+pilot_samples: AQ_R_1 AQ_W_1 HH_R_1 HH_W_1 SAMN37207890 SAMN10449037

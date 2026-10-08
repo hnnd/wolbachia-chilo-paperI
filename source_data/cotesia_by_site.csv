@@ -1,0 +1,12 @@
+geo,rice,wateroat,rice_n,wateroat_n,paired,platform
+AQ,6,1,15,15,True,MGI
+CD,6,1,10,10,True,MGI
+HC,0,0,10,10,True,MGI
+HC23,0,0,0,10,False,Illumina
+HH,1,0,10,10,True,Illumina
+HR,3,2,10,10,True,MGI
+HZ,3,0,10,0,False,Illumina
+NC2025,3,0,10,0,False,MGI
+NL,4,1,15,15,True,MGI
+PYH,2,0,10,10,True,Illumina
+WH,0,0,10,10,True,Illumina

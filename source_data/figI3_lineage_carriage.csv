@@ -1,0 +1,46 @@
+sample,geo,host_plant,taxon,denovo_genus,denovo_species,pident,mito_len,conf,para_frac,wolb_rpm,wolb_breadth,wolb_pos,wolb_pos_rev
+PYH_R_3,PYH,rice,"Braconidae, non-Cotesia",Apanteles,Apanteles_gelechiidivoris,84.063,12988.0,family+ (divergent — remote nt advised),0.259054,7.37,0.0003,0.0,0.0
+AQ_R_12,AQ,rice,Cotesia (Braconidae),,,,,,0.931101,1741.33,0.7146,1.0,1.0
+AQ_R_13,AQ,rice,Cotesia (Braconidae),,,,,,0.950042,1836.31,0.2802,1.0,1.0
+AQ_R_2,AQ,rice,Cotesia (Braconidae),,,,,,0.924102,714.49,0.1009,1.0,1.0
+AQ_R_6,AQ,rice,Cotesia (Braconidae),,,,,,0.907503,620.54,0.4246,1.0,1.0
+AQ_R_8,AQ,rice,Cotesia (Braconidae),Cotesia,Cotesia_flavipes,95.951,4320.0,genus/family,0.965919,3022.86,0.8769,1.0,1.0
+AQ_R_9,AQ,rice,Cotesia (Braconidae),,,,,,0.747783,5478.46,0.8695,1.0,1.0
+AQ_W_1,AQ,wateroat,Cotesia (Braconidae),,,,,,0.874665,515.46,0.1474,1.0,1.0
+CD_R_10,CD,rice,Cotesia (Braconidae),,,,,,0.952441,1276.58,0.7519,1.0,1.0
+CD_R_2,CD,rice,Cotesia (Braconidae),,,,,,0.898622,1479.96,0.503,1.0,1.0
+CD_R_3,CD,rice,Cotesia (Braconidae),,,,,,0.86797,3559.79,0.8017,1.0,1.0
+CD_R_5,CD,rice,Cotesia (Braconidae),,,,,,0.905783,1586.1,0.6741,1.0,1.0
+CD_R_6,CD,rice,Cotesia (Braconidae),,,,,,0.921694,1311.07,0.4629,1.0,1.0
+CD_R_8,CD,rice,Cotesia (Braconidae),,,,,,0.918341,2570.61,0.7677,1.0,1.0
+CD_W_1,CD,wateroat,Cotesia (Braconidae),,,,,,0.910083,3374.21,0.7897,1.0,1.0
+HH_R_7,HH,rice,Cotesia (Braconidae),,,,,,0.919771,2542.13,0.326,1.0,1.0
+HR_R_2,HR,rice,Cotesia (Braconidae),,,,,,0.900907,923.66,0.4168,1.0,1.0
+HR_R_6,HR,rice,Cotesia (Braconidae),,,,,,0.933477,1060.48,0.5397,1.0,1.0
+HR_R_9,HR,rice,Cotesia (Braconidae),,,,,,0.923143,1300.19,0.4605,1.0,1.0
+HR_W_10,HR,wateroat,Cotesia (Braconidae),,,,,,0.326236,403.81,0.4148,1.0,1.0
+HR_W_4,HR,wateroat,Cotesia (Braconidae),,,,,,0.930969,1878.6,0.3026,1.0,1.0
+HZ_R_10,HZ,rice,Cotesia (Braconidae),Cotesia,Cotesia_flavipes,96.166,3858.0,genus/family,0.802841,1147.69,0.0889,1.0,1.0
+HZ_R_4,HZ,rice,Cotesia (Braconidae),,,,,,0.758924,2039.68,0.1971,1.0,1.0
+HZ_R_5,HZ,rice,Cotesia (Braconidae),,,,,,0.844514,9989.23,0.6264,1.0,1.0
+NC2025_R_1,NC2025,rice,Cotesia (Braconidae),Cotesia,Cotesia_flavipes,96.388,4895.0,genus/family,0.951295,2312.8,0.8392,1.0,1.0
+NC2025_R_3,NC2025,rice,Cotesia (Braconidae),,,,,,0.283018,363.39,0.0239,0.0,1.0
+NC2025_R_6,NC2025,rice,Cotesia (Braconidae),Cotesia,Cotesia_flavipes,96.069,5675.0,genus/family,0.945709,11364.83,0.8883,1.0,1.0
+NL_R_4,NL,rice,Cotesia (Braconidae),,,,,,0.841347,646.03,0.1698,1.0,1.0
+NL_R_5,NL,rice,Cotesia (Braconidae),,,,,,0.934378,2322.91,0.7357,1.0,1.0
+NL_R_6,NL,rice,Cotesia (Braconidae),,,,,,0.217661,499.79,0.0303,0.0,1.0
+NL_R_9,NL,rice,Cotesia (Braconidae),,,,,,0.943389,465.1,0.4183,1.0,1.0
+NL_W_14,NL,wateroat,Cotesia (Braconidae),,,,,,0.760138,941.35,0.1518,1.0,1.0
+PYH_R_10,PYH,rice,Cotesia (Braconidae),,,,,,0.423869,7914.64,0.6983,1.0,1.0
+HH_W_2,HH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.288,13632.0,family+ (divergent — remote nt advised),0.008005,0.63,0.0006,0.0,0.0
+HH_W_3,HH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.186,12108.0,family+ (divergent — remote nt advised),0.007117,2.85,0.0002,0.0,0.0
+HH_W_5,HH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.001,14806.0,family+ (divergent — remote nt advised),0.008299,0.86,0.0012,0.0,0.0
+PYH_W_3,PYH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.003,14617.0,family+ (divergent — remote nt advised),0.008029,0.29,0.0001,0.0,0.0
+PYH_W_7,PYH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,79.796,6596.0,family+ (divergent — remote nt advised),0.007378,0.48,0.0001,0.0,0.0
+WH_W_1,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,79.791,7055.0,family+ (divergent — remote nt advised),0.008076,0.18,0.0001,0.0,0.0
+WH_W_10,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.261,12539.0,family+ (divergent — remote nt advised),0.008246,0.3,0.0002,0.0,0.0
+WH_W_3,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,79.764,7125.0,family+ (divergent — remote nt advised),0.008118,0.0,0.0,0.0,0.0
+WH_W_6,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.207,12107.0,family+ (divergent — remote nt advised),0.008505,0.42,0.0004,0.0,0.0
+WH_W_7,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.306,13642.0,family+ (divergent — remote nt advised),0.008359,0.19,0.0002,0.0,0.0
+WH_W_8,WH,wateroat,Ichneumonidae (Scambus),Scambus,Scambus_vesicarius,80.205,14031.0,family+ (divergent — remote nt advised),0.008241,0.47,0.0007,0.0,0.0
+HC_W_9,HC,wateroat,other (Eupelmidae s.l.),Pexopsis,Pexopsis_rasa,87.393,2000.0,family+ (divergent — remote nt advised),0.002442,278.07,0.1848,1.0,1.0

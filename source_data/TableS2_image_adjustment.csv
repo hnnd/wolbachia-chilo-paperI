@@ -1,0 +1,11 @@
+# Table S2a | Per-channel adjustment applied identically to all three section rows of Figure 5C
+channel,background_subtracted,linear_gain,gain_set_by,saturated_pixels_after,pixels_adjusted,applied_to
+red (Cy3 / IF555),0.1137,13.2,brightest row (parasitised larvae),3340,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"
+green (no signal present),0.1098,1.0,not amplified,0,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"
+blue (DAPI),0.098,8.01,brightest row (non-parasitised larvae),1981,637388,"the nine image blocks only; greyscale annotations, labels and margins unchanged"
+
+# Table S2b | 99th-percentile intensity before and after the adjustment, by section row
+section_row,Cy3_99th_percentile_raw,Cy3_99th_percentile_adjusted,DAPI_99th_percentile_raw,DAPI_99th_percentile_adjusted,Cy3_ratio_parasitized_over_unparasitized_raw,Cy3_ratio_parasitized_over_unparasitized_adjusted
+parasitized larvae,0.1804,0.88,0.1843,0.6914,1.44,5.67
+non-parasitized larvae,0.1255,0.1553,0.2078,0.88,,
+adult wasp,0.1255,0.1553,0.149,0.4086,,

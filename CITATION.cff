@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or these source data, please cite both the manuscript and this archive."
+title: >-
+  Analysis code and figure source data for "Wolbachia detected in field populations
+  of the rice stem borer Chilo suppressalis originates from its endoparasitoids:
+  signal attribution, lineage specificity, and two co-occurring genomes" (Paper I)
+type: software
+authors:
+  - family-names: Yuan
+    given-names: Shiqing
+    affiliation: "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China"
+  - family-names: Liu
+    given-names: Pinbo
+    affiliation: "College of Plant Protection, Hunan Agricultural University, Changsha, China"
+  - family-names: Wang
+    given-names: Meng
+    affiliation: "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China"
+  - family-names: Li
+    given-names: Jia
+    affiliation: "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China"
+  - family-names: Yin
+    given-names: Lijuan
+    affiliation: "College of Plant Protection, Hunan Agricultural University, Changsha, China"
+  - family-names: Wang
+    given-names: Yunsheng
+    affiliation: "College of Plant Protection, Hunan Agricultural University, Changsha, China"
+    email: wangys@hunau.edu.cn
+  - family-names: Wang
+    given-names: Yongmo
+    affiliation: "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China"
+    email: ymwang@mail.hzau.edu.cn
+version: 1.0.0
+date-released: "2026-10-08"
+license: CC-BY-4.0
+keywords:
+  - Wolbachia
+  - Chilo suppressalis
+  - Cotesia chilonis
+  - endoparasitoid
+  - signal attribution
+  - whole-body resequencing
+  - symbiont prevalence
+  - cryptic parasitism

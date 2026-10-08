@@ -1,0 +1,5 @@
+host_plant,taxon,n,wolb_pos,para_frac_min,para_frac_med,para_frac_max,dom_frac_med,denovo_confirmed
+rice,Cotesia (Braconidae),28,25,0.2177,0.9129,0.9659,0.9561,4
+wateroat,Cotesia (Braconidae),5,5,0.3262,0.8747,0.931,0.9419,0
+wateroat,Ichneumonidae (panel-outside),11,0,0.0071,0.0081,0.0085,0.2072,11
+wateroat,other,1,1,0.0024,0.0024,0.0024,0.8731,1

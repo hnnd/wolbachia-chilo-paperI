@@ -1,0 +1,6 @@
+strain	config	n_seq	total_bp	n_gaps	unplaced_bp	has_gatB	has_coxA	ref	ref_bp	gain_bp
+StrainB	CS_R HiFi only (previous)	1	1358011	0	0	False	False	wPip	1482455	0
+StrainB	+2 gatB/coxA contigs	1	1368491	2	0	True	True	wPip	1482455	10480
+StrainB	+9 novel contigs	1	1385792	9	0	True	True	wPip	1482455	27781
+StrainA	CS_R HiFi only (previous)	2	1353751	5	0	True	True	wMel	1267782	0
+StrainA	+3 novel contigs	3	1413383	7	49614	True	True	wMel	1267782	59632

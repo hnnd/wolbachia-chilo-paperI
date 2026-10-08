@@ -1,0 +1,4 @@
+row,Cy3_p99_raw,Cy3_p99_adj,DAPI_p99_raw,DAPI_p99_adj
+parasitized larvae,0.1804,0.88,0.1843,0.6914
+non-parasitized larvae,0.1255,0.1553,0.2078,0.88
+adult wasp,0.1255,0.1553,0.149,0.4086

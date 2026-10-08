@@ -1,0 +1,7 @@
+scope,metric,rice,wateroat,fisher_P
+lab arm (n=210),parasitoid+,28/110,17/100,0.178
+lab arm (n=210),Wolbachia+ (revised),27/110,6/100,0.0002321
+parasitoid+ only (n=45),P(Wolbachia+|parasitoid+),27/28,6/17,1.226e-05
+paired 8 sites (n=180),Wolbachia+ (revised),21/90,6/90,0.002911
+Cotesia-parasitized (n=32),Wolbachia+,27/27,5/5,1.0
+all parasitoid+ (n=45),Cotesia vs other taxa,32/32 Cotesia,1/13 other,4.52e-10

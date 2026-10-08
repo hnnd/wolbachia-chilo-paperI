@@ -1,0 +1,6 @@
+sample,baited_reads,assembly,best_hit,pident,verdict
+HR_W_10,2543,k141_10 1732 bp,Cotesia_flavipes,96.711,confirmed Cotesia
+PYH_R_10,7397,k141_13 5728 bp,Cotesia_flavipes,96.409,confirmed Cotesia
+NC2025_R_3,106,no contig >=1 kb,-,,not resolvable — too few mito reads
+NL_R_6,72,no contig >=1 kb,-,,not resolvable — too few mito reads
+PYH_R_3,4857,k141_3 12988 bp,Apanteles_gelechiidivoris,84.063,NOT Cotesia

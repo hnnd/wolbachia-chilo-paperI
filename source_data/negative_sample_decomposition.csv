@@ -1,0 +1,4 @@
+category,n,wolb_rpm,breadth,rpm_per_parafrac,interpretation
+Ichneumonidae-parasitized (water oat),11,0.00–2.85,0.0000–0.0012,0–400,true negative - taxon does not carry Wolbachia
+"Cotesia, low parasitoid biomass (NL_R_6, NC2025_R_3)",2,363-500 (both pass RPM>=200),0.0239-0.0303 (1.7-2.1x below 0.05),1284-2296 (inside positive range),"conservative false negative - relative abundance normal, biomass too low to spread coverage"
+"Cotesia?, no signal (PYH_R_3)",1,7.37 (27x below threshold),0.0003 (167x below),28 (18x below positive minimum),"genuine exception - and parasitoid identity weakest (dom_frac 0.61, C. ruficrus best hit)"

@@ -1,0 +1,5 @@
+taxon,n,pos,denovo,pf_min,pf_max,rate,rate_pct
+Cotesia (Braconidae),32,32.0,4,0.217661,0.965919,1.0,100.0
+"Braconidae, non-Cotesia",1,0.0,1,0.259054,0.259054,0.0,0.0
+Ichneumonidae (Scambus),11,0.0,11,0.007117,0.008505,0.0,0.0
+other (Eupelmidae s.l.),1,1.0,1,0.002442,0.002442,1.0,100.0

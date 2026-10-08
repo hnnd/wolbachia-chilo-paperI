@@ -1,0 +1,5 @@
+bin,n,note
+>=99%,53,>=99 % identity over >=90 % of the query
+90-99%,9,90-99 % identity
+<90%,19,<90 % identity (divergent homologue or fragment)
+no hit,8,no hit; three from wCchiA_contig_08 (whose 3,538 bp unique segment carries four conserved single-copy genes), four from ptg000003l_RagTag, one from NODE_12

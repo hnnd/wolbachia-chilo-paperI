@@ -1,0 +1,12 @@
+sample,cls,reads,cov_sites,sites_per_read,pct_genome_windows,gini,top_decile_share,max_depth,ident_median
+NL_R_6,reclassified positive,370,38424,103.85,81.0,0.18,0.188,7,0.98
+NC2025_R_3,reclassified positive,275,30322,110.26,66.7,0.156,0.162,4,0.9867
+PYH_R_3,noise call,9,246,27.33,1.6,0.219,0.18,3,1.0
+AQ_R_2,confirmed positive,1115,105030,94.2,95.2,0.235,0.236,18,0.9467
+HZ_R_10,confirmed positive,1252,112664,89.99,96.0,0.258,0.238,10,0.9868
+NL_W_14,confirmed positive,1582,147871,93.47,98.4,0.25,0.257,26,0.94
+SAMN10449037,public over-RPM,2750,1920,0.7,8.7,0.853,0.804,1447,0.972
+SAMN37207899,public over-RPM,743,3374,4.54,12.7,0.685,0.567,208,0.9733
+SAMN37207901,public over-RPM,764,2833,3.71,11.1,0.687,0.507,181,0.98
+SAMN37207903,public over-RPM,733,3158,4.31,11.9,0.651,0.521,193,0.9733
+SAMN37207917,public over-RPM,1493,3507,2.35,11.1,0.644,0.5,274,0.9733

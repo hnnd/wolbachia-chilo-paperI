@@ -1,0 +1,5 @@
+sample,allele,aln_len,mismatches,gaps,identity_pct,consensus_bp,trimmed_81F_bp,trimmed_691R_bp,overlap_bp,overlap_mismatches,meanQ_81F,meanQ_691R,secondary_peaks_gt0.4_at_AB_divergent_sites,secondary_peaks_gt0.4_at_conserved_sites
+JSR-1,wCchiA,590,0,0,100.0,590,531,549,490,0,59.7,59.1,"3/113 (81F), 4/121 (691R)","30/413 (81F), 16/425 (691R)"
+JSR-2,wCchiA,589,0,0,100.0,589,528,555,494,0,59.7,59.0,3/112 (81F),21/411 (81F)
+JSR-1,wCchiB,593,94,30,79.09,590,531,549,490,0,59.7,59.1,"3/113 (81F), 4/121 (691R)","30/413 (81F), 16/425 (691R)"
+JSR-2,wCchiB,592,94,30,79.05,589,528,555,494,0,59.7,59.0,3/112 (81F),21/411 (81F)

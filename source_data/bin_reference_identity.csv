@@ -1,0 +1,13 @@
+bin,ref,sg,covered,identity
+B (ptg000091l),wMel,A,511056,0.8441
+B (ptg000091l),wRi,A,587680,0.8569
+B (ptg000091l),wPip,B,568204,0.8741
+B (ptg000091l),wVitB,B,701899,0.9334
+B (ptg000091l),wNo,B,674688,0.8481
+B (ptg000091l),wTpre,B,558140,0.8771
+A (7 contigs),wMel,A,1000007,0.9111
+A (7 contigs),wRi,A,1067498,0.8413
+A (7 contigs),wPip,B,656997,0.844
+A (7 contigs),wVitB,B,678917,0.8582
+A (7 contigs),wNo,B,658681,0.8512
+A (7 contigs),wTpre,B,603586,0.8443
