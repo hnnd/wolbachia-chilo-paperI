@@ -120,6 +120,6 @@ If you use this code or these tables, please cite the manuscript and this archiv
 > Yuan, S., Liu, P., Wang, M., Li, J., Yin, L., Wang, Y., & Wang, Y. (2026).
 > Analysis code and figure source data for "Wolbachia detected in field populations of the
 > rice stem borer Chilo suppressalis originates from its endoparasitoids" (v1.0.0)
-> [Computer software]. Zenodo. https://doi.org/—— (DOI assigned on publication)
+> [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23232146
 
 A machine-readable record is provided in `CITATION.cff`.
